@@ -10,7 +10,8 @@ An end-to-end cloud-native application platform built across three repositories 
 
 ## 🏗️ Architecture
 
-![Cloud Architecture](https://github.com/csye6225YueWu/cloud-project-overview/blob/main/cloud%20architecture.png?raw=1)
+![Cloud Architecture](https://github.com/csye6225YueWu/.github/blob/main/cloud%20architecture.png?raw=1)
+
 
 The system separates concerns across three layers: a REST API backend, fully Terraform-managed AWS infrastructure, and an SNS-triggered serverless email verification workflow — all connected through automated CI/CD pipelines across dev and demo environments.
 
